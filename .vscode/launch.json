@@ -26,27 +26,7 @@
             
             "miDebuggerPath": "/usr/bin/gdb"
           },
-        //   {
-        //     "name": "debug",
-        //     "type": "cppdbg",
-        //     "request": "launch",
-        //     "program": "${workspaceFolder}/debug/out",
-        //     "args": [],
-        //     "stopAtEntry": false,
-        //     "cwd": "${workspaceFolder}",
-        //     "environment": [],
-        //     "externalConsole": false,
-        //     "MIMode": "gdb",
-        //     "setupCommands": [
-        //       {
-        //         "description": "Enable pretty-printing for gdb",
-        //         "text": "-enable-pretty-printing",
-        //         "ignoreFailures": true
-        //       }
-        //     ],
-        //     "preLaunchTask": "build gdb",
-        //     "miDebuggerPath": "/usr/bin/gdb"
-        //   }
+
           
     ]
 }
