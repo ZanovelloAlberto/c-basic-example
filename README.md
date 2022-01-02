@@ -107,4 +107,17 @@ gdb ./build/out
 ```
 
 
+### DockerFile
+
+```
+FROM scratch
+gcc -static -o hello main.c lib/*.c
+COPY hello /
+CMD ["/hello"]```
+
+
+
+
+
+
 
